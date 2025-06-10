@@ -1,6 +1,6 @@
 # Free_flap_failure
-# Free Flap Failure Prediction
-# No patient private data within the .ipynb file
+## Free Flap Failure Prediction
+## No patient private data within the .ipynb file
 
 This repository contains a Jupyter notebook that trains several machine learning models to predict the risk of free flap failure in reconstructive surgery. The notebook demonstrates data preprocessing, model selection and evaluation using patient demographic information, laboratory results, cancer characteristics and surgical details.
 
